@@ -1,10 +1,8 @@
 # Auroris
-Club Penguin Rewritten's old server emulator - used for production
+Club Penguin Rewritten's old server emulator; used for production.
 
-All code is owned by Hagrid and was created for Club Penguin Rewritten (cprewritten.net), which is now discontinued.
-I probably won't be creating tutorials on how to set this up or be updating the code, so feel free to modify it.
+Warning: This source code is outdated and contains a few performance issues, including a memory leak. These issues were discovered and fixed in the production version (which is not available publicly). This Github will not be updated with fixes or additions.
 
-Please do not use this emulator for a CPR clone/rip-off.
+All code is owned by Hagrid/Tim and was created for Club Penguin Rewritten (cprewritten.net).
 
-The SQL database structure will need to be remade by you if you intend to use it.
-Hmu on Twitter (@HagridCP) for any queries.
+There are no tutorials so to set this up you will need brains and knowledge with Node JS (server sided Javascript) and MySQL.
